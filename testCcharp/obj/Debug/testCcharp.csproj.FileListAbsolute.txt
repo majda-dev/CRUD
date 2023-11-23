@@ -1,0 +1,92 @@
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\testCcharp.exe.config
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\testCcharp.exe
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\testCcharp.pdb
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.dll
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Material.dll
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.AssemblyReference.cache
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.SuggestedBindingRedirects.cache
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Properties.Resources.resources
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.GenerateResource.cache
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CoreCompileInputs.cache
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CopyComplete
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.exe
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.pdb
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.FormMainMenu.resources
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\Guna.UI2.dll
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.List.resources
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.IbrahimDaanounStyle.brhmTextBox.resources
+D:\c#\examen\testCcharp\testCcharp\bin\Debug\BD-gestion de note- majda alaabouch.accdb
+D:\c#\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Add.resources
+D:\examen\testCcharp\testCcharp\bin\Debug\BD-gestion de note- majda alaabouch.accdb
+D:\examen\testCcharp\testCcharp\bin\Debug\testCcharp.exe.config
+D:\examen\testCcharp\testCcharp\bin\Debug\testCcharp.exe
+D:\examen\testCcharp\testCcharp\bin\Debug\testCcharp.pdb
+D:\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.dll
+D:\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Material.dll
+D:\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Pro.dll
+D:\examen\testCcharp\testCcharp\bin\Debug\Guna.UI2.dll
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.AssemblyReference.cache
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Add.resources
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.FormMainMenu.resources
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.IbrahimDaanounStyle.brhmTextBox.resources
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.List.resources
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Properties.Resources.resources
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.GenerateResource.cache
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CoreCompileInputs.cache
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CopyComplete
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.exe
+D:\examen\testCcharp\testCcharp\obj\Debug\testCcharp.pdb
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.AssemblyReference.cache
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.FormMainMenu.resources
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.IbrahimDaanounStyle.brhmTextBox.resources
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Properties.Resources.resources
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.GenerateResource.cache
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CoreCompileInputs.cache
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.exe
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.pdb
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Gestion_Equipe.resources
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\obj\Debug\testCcharp.Gestion_Joueur.resources
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\testCcharp.exe.config
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\testCcharp.exe
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\testCcharp.pdb
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Material.dll
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\PC16\Desktop\examen\testCcharp\testCcharp\bin\Debug\Guna.UI2.dll
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\testCcharp.exe.config
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\testCcharp.exe
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\testCcharp.pdb
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Material.dll
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\Guna.UI2.dll
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.AssemblyReference.cache
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.FormMainMenu.resources
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.Gestion_Equipe.resources
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.Gestion_Joueur.resources
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.IbrahimDaanounStyle.brhmTextBox.resources
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.Properties.Resources.resources
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.GenerateResource.cache
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CoreCompileInputs.cache
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.exe
+C:\Users\PC16\Desktop\examen\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.pdb
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\testCcharp.exe.config
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\testCcharp.exe
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\testCcharp.pdb
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Material.dll
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\FontAwesome.Sharp.Pro.dll
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\bin\Debug\Guna.UI2.dll
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.AssemblyReference.cache
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.FormMainMenu.resources
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.Gestion_Equipe.resources
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.Gestion_Joueur.resources
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.IbrahimDaanounStyle.brhmTextBox.resources
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.Properties.Resources.resources
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.GenerateResource.cache
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CoreCompileInputs.cache
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.csproj.CopyComplete
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.exe
+C:\Users\HUAWAI\Downloads\c# ibrahim\ibrahim_daanoun_examen_Csharp\testCcharp\testCcharp\obj\Debug\testCcharp.pdb
